@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/257/869/175/video-games-digital-art-subnautica-subnautica-below-zero-science-fiction-hd-wallpaper-preview.jpg); /* Add your background image URL here */
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+#counter {
+    font-size: 36px;
+    margin: 20px;
+}
+#message {
+    font-size: 80px;
+    margin: 12px;
+    color: darkorchid;
+    background-color: aqua;
+    background-position: center;
+}
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    padding: 10px;
+    display: contents;
+    margin: auto 0;
+}
